@@ -1,10 +1,18 @@
-### Hi there 👋, Meu nome é Karolayne
-#### Seja bem vindo(a)
-![Seja bem vindo(a)](https://github.com/karolbelo/karolperfil/blob/main/13907051_857062401094672_60011060685786949_n.jpg?raw=true)
+### Seja bem vindo(a)
+### Olá 👋, Meu nome é Karolayne
 
 Student of the Bachelor of Information Technology - UFRN.
 
-Skills: C++ / C / JS / HTML / CSS
+### _Skills:_ ###
+
+<ul>
+<img src='https://github.com/karolbelo/karolbelo/blob/main/c.png?raw=true' alt='github' height='40'>
+<img src='https://github.com/karolbelo/karolbelo/blob/main/c%20(1).png?raw=true' alt='github' height='40'>
+<img src='https://github.com/karolbelo/karolbelo/blob/main/javascript.png?raw=true' alt='github' height='40'>
+<img src='https://github.com/karolbelo/karolbelo/blob/main/html5.png?raw=true' alt='github' height='40'>
+<img src='https://github.com/karolbelo/karolbelo/blob/main/css3.png?raw=true' alt='github' height='40'>
+<img src='https://github.com/karolbelo/karolbelo/blob/main/github.png?raw=true' alt='github' height='40'>
+</ul>
 
 - 📫 How to reach me: karolbello98@gmail.com 
 
