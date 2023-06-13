@@ -1,7 +1,7 @@
 ### Seja bem vindo(a)
 ### Olá 👋, Meu nome é Karolayne
 
-Requirements Analyst || Student of the Bachelor of Information Technology - UFRN.
+Product Owner ||Requirements Analyst || Student of the Bachelor of Information Technology - UFRN.
 
 ### _Skills:_ ###
 
